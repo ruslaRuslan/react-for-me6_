@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.darkContainer,
+.darkContainer * {
+    background-color: black !important;
+    color: #fff !important;
+}
+
+.greenContainer,
+.greenContainer * {
+    background-color: green !important;
+    color: #fff !important;
+}
+
+.purpleContainer,
+.purpleContainer * {
+    background-color: purple !important;
+    color: #fff !important;
+}
+
+.blueContainer,
+.blueContainer * {
+    background-color: rgb(73, 185, 229) !important;
+    color: #000 !important;
+}
